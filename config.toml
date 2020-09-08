@@ -1,5 +1,5 @@
 
-baseURL = "https://go.hehelab.com
+baseURL = "https://go.hehelab.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
