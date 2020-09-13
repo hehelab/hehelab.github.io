@@ -25,12 +25,13 @@ draft: false
 ![被遗忘的春天][8]
 
 ![被遗忘的春天][9]
-[1]: http://lab.boke.run/usr/uploads/2020/04/21_004922_1.jpg	" 被遗忘的春天"
-[2]: http://lab.boke.run/usr/uploads/2020/04/21_004922_2.jpg	" 被遗忘的春天"
-[3]: http://lab.boke.run/usr/uploads/2020/04/21_004922_3.jpg	" 被遗忘的春天"
-[4]: http://lab.boke.run/usr/uploads/2020/04/21_004922_4.jpg	" 被遗忘的春天"
-[5]: http://lab.boke.run/usr/uploads/2020/04/21_004922_5.jpg	" 被遗忘的春天"
-[6]: http://lab.boke.run/usr/uploads/2020/04/21_004922_6.jpg	" 被遗忘的春天"
-[7]: http://lab.boke.run/usr/uploads/2020/04/21_004922_7.jpg	" 被遗忘的春天"
-[8]: http://lab.boke.run/usr/uploads/2020/04/21_004922_8.jpg	" 被遗忘的春天"
-[9]: http://lab.boke.run/usr/uploads/2020/04/21_004922_9.jpg	" 被遗忘的春天"
+
+[1]: http://lab.boke.run/usr/uploads/2020/04/21_004922_1.jpg
+[2]: http://lab.boke.run/usr/uploads/2020/04/21_004922_2.jpg
+[3]: http://lab.boke.run/usr/uploads/2020/04/21_004922_3.jpg
+[4]: http://lab.boke.run/usr/uploads/2020/04/21_004922_4.jpg
+[5]: http://lab.boke.run/usr/uploads/2020/04/21_004922_5.jpg
+[6]: http://lab.boke.run/usr/uploads/2020/04/21_004922_6.jpg
+[7]: http://lab.boke.run/usr/uploads/2020/04/21_004922_7.jpg
+[8]: http://lab.boke.run/usr/uploads/2020/04/21_004922_8.jpg
+[9]: http://lab.boke.run/usr/uploads/2020/04/21_004922_9.jpg
