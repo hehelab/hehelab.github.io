@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on HEHELAB</title>
-		<link>https://hehelab.github.io/posts/</link>
+		<link>https://go.hehelab.com/posts/</link>
 		<description>Recent content in Posts on HEHELAB</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Thu, 28 May 2020 09:09:06 +0000</lastBuildDate>
-		<atom:link href="https://hehelab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://go.hehelab.com/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>无题</title>
-			<link>https://hehelab.github.io/posts/empty/</link>
+			<link>https://go.hehelab.com/posts/empty/</link>
 			<pubDate>Thu, 28 May 2020 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/empty/</guid>
+			<guid>https://go.hehelab.com/posts/empty/</guid>
 			<description>匆匆岁月，回忆的速度都跟不上，总以为自己还是个少年，还可以为了梦想去做些什么。</description>
 			<content type="html"><![CDATA[<p>匆匆岁月，回忆的速度都跟不上，总以为自己还是个少年，还可以为了梦想去做些什么。</p>
 <p><img src="http://lab.boke.run/usr/uploads/2020/05/1377700130.jpg" alt="HEHELab"></p>
@@ -23,10 +23,10 @@
 		
 		<item>
 			<title>相遇和离别</title>
-			<link>https://hehelab.github.io/posts/met-with-the-parting/</link>
+			<link>https://go.hehelab.com/posts/met-with-the-parting/</link>
 			<pubDate>Mon, 04 May 2020 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/met-with-the-parting/</guid>
+			<guid>https://go.hehelab.com/posts/met-with-the-parting/</guid>
 			<description>台下人走过不记旧颜色 台上人唱着心碎离别歌 带故人夜游越城，古城依然是古城，而我们已不再是那时的我们。 遇见和别离，往后岁月，只愿一切安好，一帆风顺。</description>
 			<content type="html"><![CDATA[<h2 id="台上人唱着心碎离别歌">台下人走过不记旧颜色
 台上人唱着心碎离别歌</h2>
@@ -38,10 +38,10 @@
 		
 		<item>
 			<title>被遗忘的春天</title>
-			<link>https://hehelab.github.io/posts/forgotten-spring-2020/</link>
+			<link>https://go.hehelab.com/posts/forgotten-spring-2020/</link>
 			<pubDate>Tue, 21 Apr 2020 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/forgotten-spring-2020/</guid>
+			<guid>https://go.hehelab.com/posts/forgotten-spring-2020/</guid>
 			<description>因为疫情的原因，都没仔细留心看，发现春去夏至， 院子里的绣球已钻出花苞，蔷薇已开艳好些，琵琶也开始变黄，红枫颜色正当时。
 ![被遗忘的春天][1]
 ![被遗忘的春天][2]
@@ -77,10 +77,10 @@
 		
 		<item>
 			<title>Hello World!</title>
-			<link>https://hehelab.github.io/posts/hello-world/</link>
+			<link>https://go.hehelab.com/posts/hello-world/</link>
 			<pubDate>Sun, 01 Mar 2020 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/hello-world/</guid>
+			<guid>https://go.hehelab.com/posts/hello-world/</guid>
 			<description>第N次Hello World! 几年前因为各种忙碌，忘记续费，导致数据被清以后，也彻底放弃了折腾。 重新这篇Hello World!也许是依然有些不舍吧。</description>
 			<content type="html"><![CDATA[<p>第N次Hello World!
 几年前因为各种忙碌，忘记续费，导致数据被清以后，也彻底放弃了折腾。
@@ -91,10 +91,10 @@
 		
 		<item>
 			<title>菲律宾之旅-2019</title>
-			<link>https://hehelab.github.io/posts/philippines-travel-2019/</link>
+			<link>https://go.hehelab.com/posts/philippines-travel-2019/</link>
 			<pubDate>Sat, 31 Aug 2019 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/philippines-travel-2019/</guid>
+			<guid>https://go.hehelab.com/posts/philippines-travel-2019/</guid>
 			<description>整理中&amp;hellip;.</description>
 			<content type="html"><![CDATA[<p>整理中&hellip;.</p>
 ]]></content>
@@ -102,10 +102,10 @@
 		
 		<item>
 			<title>青海甘肃大环线</title>
-			<link>https://hehelab.github.io/posts/qinghai-gansu-great-circle-line-travel/</link>
+			<link>https://go.hehelab.com/posts/qinghai-gansu-great-circle-line-travel/</link>
 			<pubDate>Thu, 27 Sep 2018 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/qinghai-gansu-great-circle-line-travel/</guid>
+			<guid>https://go.hehelab.com/posts/qinghai-gansu-great-circle-line-travel/</guid>
 			<description>整理中&amp;hellip;.</description>
 			<content type="html"><![CDATA[<p>整理中&hellip;.</p>
 ]]></content>
@@ -113,10 +113,10 @@
 		
 		<item>
 			<title>东极岛之行</title>
-			<link>https://hehelab.github.io/posts/dongji-island-trip/</link>
+			<link>https://go.hehelab.com/posts/dongji-island-trip/</link>
 			<pubDate>Wed, 20 Jul 2016 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/dongji-island-trip/</guid>
+			<guid>https://go.hehelab.com/posts/dongji-island-trip/</guid>
 			<description>整理中&amp;hellip;.</description>
 			<content type="html"><![CDATA[<p>整理中&hellip;.</p>
 ]]></content>
@@ -124,10 +124,10 @@
 		
 		<item>
 			<title>泰国之旅</title>
-			<link>https://hehelab.github.io/posts/thailand-travel/</link>
+			<link>https://go.hehelab.com/posts/thailand-travel/</link>
 			<pubDate>Sat, 23 Jan 2016 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/thailand-travel/</guid>
+			<guid>https://go.hehelab.com/posts/thailand-travel/</guid>
 			<description>整理中&amp;hellip;.</description>
 			<content type="html"><![CDATA[<p>整理中&hellip;.</p>
 ]]></content>
@@ -135,10 +135,10 @@
 		
 		<item>
 			<title>菲律宾之旅</title>
-			<link>https://hehelab.github.io/posts/philippines-travel/</link>
+			<link>https://go.hehelab.com/posts/philippines-travel/</link>
 			<pubDate>Sat, 23 Jan 2016 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/philippines-travel/</guid>
+			<guid>https://go.hehelab.com/posts/philippines-travel/</guid>
 			<description>整理中&amp;hellip;.</description>
 			<content type="html"><![CDATA[<p>整理中&hellip;.</p>
 ]]></content>
@@ -146,10 +146,10 @@
 		
 		<item>
 			<title>厦门之行</title>
-			<link>https://hehelab.github.io/posts/xiamen-trip/</link>
+			<link>https://go.hehelab.com/posts/xiamen-trip/</link>
 			<pubDate>Tue, 15 Apr 2014 09:09:06 +0000</pubDate>
 			
-			<guid>https://hehelab.github.io/posts/xiamen-trip/</guid>
+			<guid>https://go.hehelab.com/posts/xiamen-trip/</guid>
 			<description>整理中&amp;hellip;.</description>
 			<content type="html"><![CDATA[<p>整理中&hellip;.</p>
 ]]></content>
