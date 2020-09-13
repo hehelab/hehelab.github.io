@@ -1,33 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Hermit</title>
-    <link>https://go.hehelab.com/</link>
-    <description>Recent content on Hugo Hermit</description>
+    <title>HEHELAB</title>
+    <link>https://hehelab.github.io/</link>
+    <description>Recent content on HEHELAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 09:09:06 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2020 09:09:06 +0000</lastBuildDate>
     
-	<atom:link href="https://go.hehelab.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hehelab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Post Title</title>
-      <link>https://go.hehelab.com/posts/post-title/</link>
-      <pubDate>Tue, 08 Sep 2020 09:09:06 +0800</pubDate>
+      <title>About Me</title>
+      <link>https://hehelab.github.io/about/</link>
+      <pubDate>Mon, 14 Sep 2020 01:27:07 +0800</pubDate>
       
-      <guid>https://go.hehelab.com/posts/post-title/</guid>
-      <description>hello world！</description>
+      <guid>https://hehelab.github.io/about/</guid>
+      <description>这里是关于我的页面，暂时没有展示内容。</description>
     </item>
     
     <item>
-      <title>Page Title</title>
-      <link>https://go.hehelab.com/page-title/</link>
-      <pubDate>Tue, 08 Sep 2020 09:07:47 +0800</pubDate>
+      <title>无题</title>
+      <link>https://hehelab.github.io/posts/empty/</link>
+      <pubDate>Thu, 28 May 2020 09:09:06 +0000</pubDate>
       
-      <guid>https://go.hehelab.com/page-title/</guid>
-      <description>page1 page2 page3</description>
+      <guid>https://hehelab.github.io/posts/empty/</guid>
+      <description>匆匆岁月，回忆的速度都跟不上，总以为自己还是个少年，还可以为了梦想去做些什么。</description>
+    </item>
+    
+    <item>
+      <title>相遇和离别</title>
+      <link>https://hehelab.github.io/posts/met-with-the-parting/</link>
+      <pubDate>Mon, 04 May 2020 09:09:06 +0000</pubDate>
+      
+      <guid>https://hehelab.github.io/posts/met-with-the-parting/</guid>
+      <description>台下人走过不记旧颜色 台上人唱着心碎离别歌 带故人夜游越城，古城依然是古城，而我们已不再是那时的我们。 遇见和别离，往后岁月，只愿一切安好，一帆风顺。</description>
+    </item>
+    
+    <item>
+      <title>被遗忘的春天</title>
+      <link>https://hehelab.github.io/posts/forgotten-spring-2020/</link>
+      <pubDate>Tue, 21 Apr 2020 09:09:06 +0000</pubDate>
+      
+      <guid>https://hehelab.github.io/posts/forgotten-spring-2020/</guid>
+      <description>因为疫情的原因，都没仔细留心看，发现春去夏至， 院子里的绣球已钻出花苞，蔷薇已开艳好些，琵琶也开始变黄，红枫颜色正当时。
+![被遗忘的春天][1]
+![被遗忘的春天][2]
+![被遗忘的春天][3]
+![被遗忘的春天][4]
+![被遗忘的春天][5]
+![被遗忘的春天][6]
+![被遗忘的春天][7]
+![被遗忘的春天][8]
+![被遗忘的春天][9] [1]: http://lab.boke.run/usr/uploads/2020/04/21_004922_1.jpg	&amp;quot; 被遗忘的春天&amp;rdquo; [2]: http://lab.boke.run/usr/uploads/2020/04/21_004922_2.jpg	&amp;quot; 被遗忘的春天&amp;rdquo; [3]: http://lab.boke.run/usr/uploads/2020/04/21_004922_3.jpg	&amp;quot; 被遗忘的春天&amp;rdquo; [4]: http://lab.boke.run/usr/uploads/2020/04/21_004922_4.jpg	&amp;quot; 被遗忘的春天&amp;rdquo; [5]: http://lab.boke.run/usr/uploads/2020/04/21_004922_5.jpg	&amp;quot; 被遗忘的春天&amp;rdquo; [6]: http://lab.boke.run/usr/uploads/2020/04/21_004922_6.jpg	&amp;quot; 被遗忘的春天&amp;rdquo; [7]: http://lab.boke.run/usr/uploads/2020/04/21_004922_7.jpg	&amp;quot; 被遗忘的春天&amp;rdquo; [8]: http://lab.boke.run/usr/uploads/2020/04/21_004922_8.jpg	&amp;quot; 被遗忘的春天&amp;rdquo; [9]: http://lab.boke.run/usr/uploads/2020/04/21_004922_9.jpg	&amp;quot; 被遗忘的春天&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://hehelab.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 01 Mar 2020 09:09:06 +0000</pubDate>
+      
+      <guid>https://hehelab.github.io/posts/hello-world/</guid>
+      <description>第N次Hello World! 几年前因为各种忙碌，忘记续费，导致数据被清以后，也彻底放弃了折腾。 重新这篇Hello World!也许是依然有些不舍吧。</description>
+    </item>
+    
+    <item>
+      <title>菲律宾之旅-2019</title>
+      <link>https://hehelab.github.io/posts/philippines-travel-2019/</link>
+      <pubDate>Sat, 31 Aug 2019 09:09:06 +0000</pubDate>
+      
+      <guid>https://hehelab.github.io/posts/philippines-travel-2019/</guid>
+      <description>整理中&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>青海甘肃大环线</title>
+      <link>https://hehelab.github.io/posts/qinghai-gansu-great-circle-line-travel/</link>
+      <pubDate>Thu, 27 Sep 2018 09:09:06 +0000</pubDate>
+      
+      <guid>https://hehelab.github.io/posts/qinghai-gansu-great-circle-line-travel/</guid>
+      <description>整理中&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>东极岛之行</title>
+      <link>https://hehelab.github.io/posts/dongji-island-trip/</link>
+      <pubDate>Wed, 20 Jul 2016 09:09:06 +0000</pubDate>
+      
+      <guid>https://hehelab.github.io/posts/dongji-island-trip/</guid>
+      <description>整理中&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>泰国之旅</title>
+      <link>https://hehelab.github.io/posts/thailand-travel/</link>
+      <pubDate>Sat, 23 Jan 2016 09:09:06 +0000</pubDate>
+      
+      <guid>https://hehelab.github.io/posts/thailand-travel/</guid>
+      <description>整理中&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>菲律宾之旅</title>
+      <link>https://hehelab.github.io/posts/philippines-travel/</link>
+      <pubDate>Sat, 23 Jan 2016 09:09:06 +0000</pubDate>
+      
+      <guid>https://hehelab.github.io/posts/philippines-travel/</guid>
+      <description>整理中&amp;hellip;.</description>
     </item>
     
   </channel>
