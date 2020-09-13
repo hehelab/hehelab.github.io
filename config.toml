@@ -2,7 +2,7 @@
 baseURL = "https://go.hehelab.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "HEHELAB"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -15,7 +15,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "John Doe"
+  name = "Wage"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -37,7 +37,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "- 美 好 生 活 实 验 室 -."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -58,15 +58,15 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
+    url = ""
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/"
+    url = ""
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = ""
 
 [menu]
 
@@ -77,5 +77,5 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about/"
     weight = 20
