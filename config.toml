@@ -79,3 +79,14 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "About"
     url = "about/"
     weight = 20
+
+
+[Params.valine]
+  enable = true
+  appId = 'IAg31PRzRVoAx3hai3SrcAnm-MdYXbMMI'
+  appKey = 'kMVi6i22lclVDHxCAtPvnooQ'
+  notify = false
+  verify = false
+  avatar = 'retro' 
+  placeholder = '说点什么吧...'
+  visitor = true
