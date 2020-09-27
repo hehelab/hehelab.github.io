@@ -1,8 +1,8 @@
 
-baseURL = "https://go.hehelab.com/"
+baseURL = "https://hign.xyz/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "HEHELAB"
+title = "Hi~GoodNight!"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
